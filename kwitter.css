@@ -1,0 +1,27 @@
+body{
+ background-image: url("123.jpg");
+ background-repeat: no-repeat;
+background-size: cover;
+    
+}
+.div_container {
+    margin-top: 100px;
+}
+#text_kwitter{
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 100px;
+    margin-top: 100px;
+    margin-right: 800px;
+    color: black;
+}
+#m2{
+    height: 90px;
+    width: 90px;
+}
+#user_name{
+    font-family: 'Times New Roman', Times, serif;
+}
+#output
+{
+	padding: 10px; width:80%;background: rgba(255,255,255,0.8);border-radius: 15px;
+}
